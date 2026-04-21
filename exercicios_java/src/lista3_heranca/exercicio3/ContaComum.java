@@ -38,4 +38,3 @@ public class ContaComum {
         System.out.println("Seu saldo é de: " + getSaldo());
     }
 }
-// Chave faltando estava aqui - agora a classe está completa
